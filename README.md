@@ -24,7 +24,7 @@ Este proyecto es una pagina de una biblioteca loca, realizaado siguiendo la docu
 
 3. Accede  en tu navegador:
 
-http://localhost:8000/docs
+http://127.0.0.1:8000/catalog
 
 
 4. Prueba las diferentes rutas disponibles.
